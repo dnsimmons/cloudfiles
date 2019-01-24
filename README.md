@@ -1,4 +1,4 @@
-# rackspace-cloudfiles
+# cloudfiles
 Provides a basic file management abstraction on top of the PHP-Opencloud SDK
 
 **PHP-OpenCloud** (*the official PHP SDK for Rackspace*)
